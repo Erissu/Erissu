@@ -3,8 +3,15 @@
 
 ## Oi, me chamo Felipe Oliveira 👋
 
-Sou estudante de Engenharia de Software na Jala University, nos EUA, e atualmente estou focado em aprimorar minhas habilidades em Java e JavaScript por meio da criação de projetos práticos. Estou sempre aberto a novas oportunidades e desafios que possam expandir meu conhecimento e me ajudar a crescer na área de desenvolvimento de software. Sinta-se à vontade para se conectar comigo ou compartilhar ideias.
 
+<div>
+  <p>
+    Meu nome é Felipe Oliveira, sou estudante de Engenharia de Software na Jala University, nos EUA.
+  </p>
+  <p>
+    Atualmente estou focado em aprimorar minhas habilidades em Java e JavaScript por meio da criação de projetos práticos. 
+  </p>
+ </div>
 
  <!-- <div>
   <a href="https://beacons.ai/Erissu">
