@@ -1,6 +1,6 @@
-## Hi there 👋
+## Oi, me chamo Felipe Oliveira 👋
 
-Meu nome é Felipe Oliveira, estudante de Engenharia de Software na Jala University, nos EUA.
+📚 Estudante de Engenharia de Software na Jala University, nos EUA.
 
 💻 Atualmente, estou focado em aprimorar minhas habilidades em Java e JavaScript por meio da criação de projetos práticos.
 
